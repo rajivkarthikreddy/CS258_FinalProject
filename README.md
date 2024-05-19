@@ -3,15 +3,15 @@
 
 ## Project Overview
 
-This project focuses on efficiently solving the Routing and Spectrum Allocation (RSA) problem in optical communication networks. The goal is to maximize resource utilization, improve the quality of service, and reduce operational costs. The project employs both reinforcement learning (RL) algorithms and heuristic methods to achieve these objectives.
+This project focuses on efficiently solving the Routing and Spectrum Allocation (RSA) problem in optical communication networks. The goal is to maximize resource utilization, improve the quality of service, and reduce operational costs. The project employs both reinforcement learning (RL) algorithms and heuristic methods to achieve these objectives. Project Description is availabe at https://github.com/sjsu-interconnect/cs258/blob/main/projects/rsa.md
 
 
 ## Setup and Installation
 
 1. **Clone the repository**:
     ```bash
-    git clone https://github.com/rajivkarthikreddy/optical-network-resource-allocation.git
-    cd optical-network-resource-allocation
+    git clone https://github.com/rajivkarthikreddy/CS258_FinalProject.git
+    cd CS258_FinalProject
     ```
 
 
